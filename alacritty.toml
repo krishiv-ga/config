@@ -16,3 +16,7 @@ option_as_alt = "Both"
 normal.family = "MesloLGS Nerd Font Mono"
 
 size = 18
+
+import = [
+    "~/.config/alacritty/themes/themes/gotham.toml"
+]
