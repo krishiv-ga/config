@@ -17,6 +17,7 @@ normal.family = "MesloLGS Nerd Font Mono"
 
 size = 18
 
+[general]
 import = [
     "~/.config/alacritty/themes/themes/gotham.toml"
 ]
